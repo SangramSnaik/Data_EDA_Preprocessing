@@ -1,4 +1,4 @@
-# Data_EDA_-_Preprocessing
+# Data_EDA-Preprocessing
 Config files for my GitHub profile.
 
 This is FIRST STEP in Data Analysis with python. do preparation for machine learning.
